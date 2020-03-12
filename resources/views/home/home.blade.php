@@ -122,8 +122,8 @@
                     </div>
                 </div>
                 <div class="m-stage-elevator__commands">
-                    <div class="m-stage-elevator__prev m-stage-elevator__command swiper-button-prev"></div>
                     <div class="m-stage-elevator__next m-stage-elevator__command swiper-button-next"></div>
+                    <div class="m-stage-elevator__prev m-stage-elevator__command swiper-button-prev"></div>
                 </div>
                 <div class="m-stage-elevator__indicator-bar"></div>
             </div>
